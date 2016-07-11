@@ -1,0 +1,453 @@
+# depslib dependency file v1.0
+1468128395 source:c:\users\zm\desktop\cpp_projects\grade-scores\main.cpp
+	"UnitTest++.h"
+	"grade-scores.h"
+
+1468031970 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\\unittest++.h
+	"UnitTestPP.h"
+
+1468031970 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\\unittestpp.h
+	"Config.h"
+	"TestMacros.h"
+	"CheckMacros.h"
+	"RequireMacros.h"
+	"TestRunner.h"
+	"TimeConstraint.h"
+	"ReportAssert.h"
+
+1468031969 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\\config.h
+
+1468031970 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\\testmacros.h
+	"Config.h"
+	"TestSuite.h"
+	"ExceptionMacros.h"
+	"ExecuteTest.h"
+	"AssertException.h"
+	"TestDetails.h"
+	"MemoryOutStream.h"
+	"Posix/SignalTranslator.h"
+
+1468031970 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\\testsuite.h
+
+1468031969 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\\exceptionmacros.h
+	"Config.h"
+
+1468031969 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\\executetest.h
+	"Config.h"
+	"ExceptionMacros.h"
+	"TestDetails.h"
+	"TestResults.h"
+	"MemoryOutStream.h"
+	"AssertException.h"
+	"RequiredCheckException.h"
+	"CurrentTest.h"
+	"ReportAssertImpl.h"
+	"Posix/SignalTranslator.h"
+
+1468031969 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\\testdetails.h
+	"HelperMacros.h"
+
+1468031969 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\\helpermacros.h
+	"Config.h"
+
+1468031970 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\\testresults.h
+	"HelperMacros.h"
+
+1468031969 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\\memoryoutstream.h
+	"Config.h"
+	"HelperMacros.h"
+	<sstream>
+	<cstddef>
+
+1468031969 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\\assertexception.h
+	"Config.h"
+	"HelperMacros.h"
+	<exception>
+
+1468031969 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\\requiredcheckexception.h
+	"Config.h"
+	"HelperMacros.h"
+	<exception>
+
+1468031969 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\\currenttest.h
+	"HelperMacros.h"
+
+1468031969 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\\reportassertimpl.h
+	"Config.h"
+	"HelperMacros.h"
+	<csetjmp>
+
+1468031970 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\\posix\signaltranslator.h
+	<setjmp.h>
+	<signal.h>
+
+1468031969 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\\checkmacros.h
+	"HelperMacros.h"
+	"ExceptionMacros.h"
+	"Checks.h"
+	"AssertException.h"
+	"RequiredCheckException.h"
+	"MemoryOutStream.h"
+	"TestDetails.h"
+	"CurrentTest.h"
+	"ReportAssertImpl.h"
+
+1468031969 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\\checks.h
+	"Config.h"
+	"TestResults.h"
+	"MemoryOutStream.h"
+
+1468031969 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\\requiremacros.h
+	"RequiredCheckTestReporter.h"
+
+1468031969 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\\requiredchecktestreporter.h
+	"HelperMacros.h"
+	"ThrowingTestReporter.h"
+
+1468031970 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\\throwingtestreporter.h
+	"TestReporter.h"
+
+1468031970 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\\testreporter.h
+	"HelperMacros.h"
+
+1468031970 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\\testrunner.h
+	"Test.h"
+	"TestList.h"
+	"CurrentTest.h"
+
+1468031969 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\\test.h
+	"TestDetails.h"
+
+1468031970 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\\testlist.h
+	"HelperMacros.h"
+
+1468031970 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\\timeconstraint.h
+	"TimeHelpers.h"
+	"HelperMacros.h"
+	"TestDetails.h"
+
+1468031970 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\\timehelpers.h
+	"Config.h"
+	"Posix/TimeHelpers.h"
+	"Win32/TimeHelpers.h"
+
+1468031970 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\\posix\timehelpers.h
+	<sys/time.h>
+
+1468031970 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\\win32\timehelpers.h
+	"../Config.h"
+	"../HelperMacros.h"
+
+1468031969 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\\reportassert.h
+	"HelperMacros.h"
+
+1468031970 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\unittest++.h
+	"UnitTestPP.h"
+
+1468031970 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\unittestpp.h
+	"Config.h"
+	"TestMacros.h"
+	"CheckMacros.h"
+	"RequireMacros.h"
+	"TestRunner.h"
+	"TimeConstraint.h"
+	"ReportAssert.h"
+
+1468031969 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\config.h
+
+1468031970 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\testmacros.h
+	"Config.h"
+	"TestSuite.h"
+	"ExceptionMacros.h"
+	"ExecuteTest.h"
+	"AssertException.h"
+	"TestDetails.h"
+	"MemoryOutStream.h"
+	"Posix/SignalTranslator.h"
+
+1468031970 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\testsuite.h
+
+1468031969 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\exceptionmacros.h
+	"Config.h"
+
+1468031969 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\executetest.h
+	"Config.h"
+	"ExceptionMacros.h"
+	"TestDetails.h"
+	"TestResults.h"
+	"MemoryOutStream.h"
+	"AssertException.h"
+	"RequiredCheckException.h"
+	"CurrentTest.h"
+	"ReportAssertImpl.h"
+	"Posix/SignalTranslator.h"
+
+1468031969 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\testdetails.h
+	"HelperMacros.h"
+
+1468031969 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\helpermacros.h
+	"Config.h"
+
+1468031970 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\testresults.h
+	"HelperMacros.h"
+
+1468031969 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\memoryoutstream.h
+	"Config.h"
+	"HelperMacros.h"
+	<sstream>
+	<cstddef>
+
+1468031969 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\assertexception.h
+	"Config.h"
+	"HelperMacros.h"
+	<exception>
+
+1468031969 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\requiredcheckexception.h
+	"Config.h"
+	"HelperMacros.h"
+	<exception>
+
+1468031969 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\currenttest.h
+	"HelperMacros.h"
+
+1468031969 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\reportassertimpl.h
+	"Config.h"
+	"HelperMacros.h"
+	<csetjmp>
+
+1468031970 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\posix\signaltranslator.h
+	<setjmp.h>
+	<signal.h>
+
+1468031969 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\checkmacros.h
+	"HelperMacros.h"
+	"ExceptionMacros.h"
+	"Checks.h"
+	"AssertException.h"
+	"RequiredCheckException.h"
+	"MemoryOutStream.h"
+	"TestDetails.h"
+	"CurrentTest.h"
+	"ReportAssertImpl.h"
+
+1468031969 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\checks.h
+	"Config.h"
+	"TestResults.h"
+	"MemoryOutStream.h"
+
+1468031969 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\requiremacros.h
+	"RequiredCheckTestReporter.h"
+
+1468031969 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\requiredchecktestreporter.h
+	"HelperMacros.h"
+	"ThrowingTestReporter.h"
+
+1468031970 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\throwingtestreporter.h
+	"TestReporter.h"
+
+1468031970 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\testreporter.h
+	"HelperMacros.h"
+
+1468031970 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\testrunner.h
+	"Test.h"
+	"TestList.h"
+	"CurrentTest.h"
+
+1468031969 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\test.h
+	"TestDetails.h"
+
+1468031970 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\testlist.h
+	"HelperMacros.h"
+
+1468031970 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\timeconstraint.h
+	"TimeHelpers.h"
+	"HelperMacros.h"
+	"TestDetails.h"
+
+1468031970 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\timehelpers.h
+	"Config.h"
+	"Posix/TimeHelpers.h"
+	"Win32/TimeHelpers.h"
+
+1468031970 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\posix\timehelpers.h
+	<sys/time.h>
+
+1468031970 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\win32\timehelpers.h
+	"../Config.h"
+	"../HelperMacros.h"
+
+1468031969 c:\users\zm\desktop\cpp_projects\unittest-cpp-master\unittest++\reportassert.h
+	"HelperMacros.h"
+
+1468126809 source:c:\users\zm\desktop\cpp_projects\grade-scores\grade-scores-test.cpp
+	"UnitTest++.h"
+	"grade-scores.h"
+
+1468126368 c:\users\zm\desktop\cpp_projects\grade-scores\grade-scores.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<sstream>
+	<algorithm>
+
+1468127524 source:c:\users\zm\desktop\cpp_projects\grade-scores\grade-scores.cpp
+	"grade-scores.h"
+
+1468194416 source:c:\cpp_projects\grade-scores\grade-scores.cpp
+	"grade-scores.h"
+
+1468194460 c:\cpp_projects\grade-scores\grade-scores.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<sstream>
+	<algorithm>
+
+1468151138 source:c:\cpp_projects\grade-scores\main.cpp
+	"UnitTest++.h"
+	"grade-scores.h"
+
+1468192309 source:c:\cpp_projects\grade-scores\grade-scores-test.cpp
+	"UnitTest++.h"
+	"grade-scores.h"
+
+1468031970 c:\cpp_projects\unittest-cpp-master\unittest++\unittest++.h
+	"UnitTestPP.h"
+
+1468031970 c:\cpp_projects\unittest-cpp-master\unittest++\unittestpp.h
+	"Config.h"
+	"TestMacros.h"
+	"CheckMacros.h"
+	"RequireMacros.h"
+	"TestRunner.h"
+	"TimeConstraint.h"
+	"ReportAssert.h"
+
+1468031969 c:\cpp_projects\unittest-cpp-master\unittest++\config.h
+
+1468031970 c:\cpp_projects\unittest-cpp-master\unittest++\testmacros.h
+	"Config.h"
+	"TestSuite.h"
+	"ExceptionMacros.h"
+	"ExecuteTest.h"
+	"AssertException.h"
+	"TestDetails.h"
+	"MemoryOutStream.h"
+	"Posix/SignalTranslator.h"
+
+1468031970 c:\cpp_projects\unittest-cpp-master\unittest++\testsuite.h
+
+1468031969 c:\cpp_projects\unittest-cpp-master\unittest++\exceptionmacros.h
+	"Config.h"
+
+1468031969 c:\cpp_projects\unittest-cpp-master\unittest++\executetest.h
+	"Config.h"
+	"ExceptionMacros.h"
+	"TestDetails.h"
+	"TestResults.h"
+	"MemoryOutStream.h"
+	"AssertException.h"
+	"RequiredCheckException.h"
+	"CurrentTest.h"
+	"ReportAssertImpl.h"
+	"Posix/SignalTranslator.h"
+
+1468031969 c:\cpp_projects\unittest-cpp-master\unittest++\testdetails.h
+	"HelperMacros.h"
+
+1468031969 c:\cpp_projects\unittest-cpp-master\unittest++\helpermacros.h
+	"Config.h"
+
+1468031970 c:\cpp_projects\unittest-cpp-master\unittest++\testresults.h
+	"HelperMacros.h"
+
+1468031969 c:\cpp_projects\unittest-cpp-master\unittest++\memoryoutstream.h
+	"Config.h"
+	"HelperMacros.h"
+	<sstream>
+	<cstddef>
+
+1468031969 c:\cpp_projects\unittest-cpp-master\unittest++\assertexception.h
+	"Config.h"
+	"HelperMacros.h"
+	<exception>
+
+1468031969 c:\cpp_projects\unittest-cpp-master\unittest++\requiredcheckexception.h
+	"Config.h"
+	"HelperMacros.h"
+	<exception>
+
+1468031969 c:\cpp_projects\unittest-cpp-master\unittest++\currenttest.h
+	"HelperMacros.h"
+
+1468031969 c:\cpp_projects\unittest-cpp-master\unittest++\reportassertimpl.h
+	"Config.h"
+	"HelperMacros.h"
+	<csetjmp>
+
+1468031970 c:\cpp_projects\unittest-cpp-master\unittest++\posix\signaltranslator.h
+	<setjmp.h>
+	<signal.h>
+
+1468031969 c:\cpp_projects\unittest-cpp-master\unittest++\checkmacros.h
+	"HelperMacros.h"
+	"ExceptionMacros.h"
+	"Checks.h"
+	"AssertException.h"
+	"RequiredCheckException.h"
+	"MemoryOutStream.h"
+	"TestDetails.h"
+	"CurrentTest.h"
+	"ReportAssertImpl.h"
+
+1468031969 c:\cpp_projects\unittest-cpp-master\unittest++\checks.h
+	"Config.h"
+	"TestResults.h"
+	"MemoryOutStream.h"
+
+1468031969 c:\cpp_projects\unittest-cpp-master\unittest++\requiremacros.h
+	"RequiredCheckTestReporter.h"
+
+1468031969 c:\cpp_projects\unittest-cpp-master\unittest++\requiredchecktestreporter.h
+	"HelperMacros.h"
+	"ThrowingTestReporter.h"
+
+1468031970 c:\cpp_projects\unittest-cpp-master\unittest++\throwingtestreporter.h
+	"TestReporter.h"
+
+1468031970 c:\cpp_projects\unittest-cpp-master\unittest++\testreporter.h
+	"HelperMacros.h"
+
+1468031970 c:\cpp_projects\unittest-cpp-master\unittest++\testrunner.h
+	"Test.h"
+	"TestList.h"
+	"CurrentTest.h"
+
+1468031969 c:\cpp_projects\unittest-cpp-master\unittest++\test.h
+	"TestDetails.h"
+
+1468031970 c:\cpp_projects\unittest-cpp-master\unittest++\testlist.h
+	"HelperMacros.h"
+
+1468031970 c:\cpp_projects\unittest-cpp-master\unittest++\timeconstraint.h
+	"TimeHelpers.h"
+	"HelperMacros.h"
+	"TestDetails.h"
+
+1468031970 c:\cpp_projects\unittest-cpp-master\unittest++\timehelpers.h
+	"Config.h"
+	"Posix/TimeHelpers.h"
+	"Win32/TimeHelpers.h"
+
+1468031970 c:\cpp_projects\unittest-cpp-master\unittest++\posix\timehelpers.h
+	<sys/time.h>
+
+1468031970 c:\cpp_projects\unittest-cpp-master\unittest++\win32\timehelpers.h
+	"../Config.h"
+	"../HelperMacros.h"
+
+1468031969 c:\cpp_projects\unittest-cpp-master\unittest++\reportassert.h
+	"HelperMacros.h"
+
